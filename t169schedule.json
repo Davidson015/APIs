@@ -10,7 +10,7 @@
     },
     "distance": {
       "totalDistance": "0km",
-    "distanceFromLast": "0km"
+      "distanceFromLast": "0km"
     },
     "hardSeatPrice": "US$0",
     "hardSleeper": "US$0/0/0",
@@ -27,7 +27,7 @@
     },
     "distance": {
       "totalDistance": "80km",
-    "distanceFromLast": "80km"
+      "distanceFromLast": "80km"
     },
     "hardSeatPrice": "US$2",
     "hardSleeper": "US$8/9/9",
@@ -44,7 +44,7 @@
     },
     "distance": {
       "totalDistance": "108km",
-    "distanceFromLast": "28km"
+      "distanceFromLast": "28km"
     },
     "hardSeatPrice": "US$2",
     "hardSleeper": "US$9/10/10",
@@ -61,7 +61,7 @@
     },
     "distance": {
       "totalDistance": "167km",
-    "distanceFromLast": "59km"
+      "distanceFromLast": "59km"
     },
     "hardSeatPrice": "US$3",
     "hardSleeper": "US$10/11/11",
@@ -78,7 +78,7 @@
     },
     "distance": {
       "totalDistance": "312km",
-    "distanceFromLast": "145km"
+      "distanceFromLast": "145km"
     },
     "hardSeatPrice": "US$7",
     "hardSleeper": "US$13/14/14",
@@ -95,7 +95,7 @@
     },
     "distance": {
       "totalDistance": "360km",
-    "distanceFromLast": "48km"
+      "distanceFromLast": "48km"
     },
     "hardSeatPrice": "US$7",
     "hardSleeper": "US$14/14/15",
@@ -112,7 +112,7 @@
     },
     "distance": {
       "totalDistance": "446km",
-    "distanceFromLast": "86km"
+      "distanceFromLast": "86km"
     },
     "hardSeatPrice": "US$9",
     "hardSleeper": "US$16/17/17",
@@ -129,7 +129,7 @@
     },
     "distance": {
       "totalDistance": "557km",
-    "distanceFromLast": "111km"
+      "distanceFromLast": "111km"
     },
     "hardSeatPrice": "US$11",
     "hardSleeper": "US$20/20/21",
@@ -146,7 +146,7 @@
     },
     "distance": {
       "totalDistance": "673km",
-    "distanceFromLast": "116km"
+      "distanceFromLast": "116km"
     },
     "hardSeatPrice": "US$13",
     "hardSleeper": "US$23/24/25",
@@ -163,7 +163,7 @@
     },
     "distance": {
       "totalDistance": "987km",
-    "distanceFromLast": "314km"
+      "distanceFromLast": "314km"
     },
     "hardSeatPrice": "US$18",
     "hardSleeper": "US$31/32/33",
@@ -180,7 +180,7 @@
     },
     "distance": {
       "totalDistance": "1173km",
-    "distanceFromLast": "186km"
+      "distanceFromLast": "186km"
     },
     "hardSeatPrice": "US$21",
     "hardSleeper": "US$36/37/38",
@@ -197,7 +197,7 @@
     },
     "distance": {
       "totalDistance": "1377km",
-    "distanceFromLast": "204km"
+      "distanceFromLast": "204km"
     },
     "hardSeatPrice": "US$27",
     "hardSleeper": "US$45/47/48",
@@ -214,7 +214,7 @@
     },
     "distance": {
       "totalDistance": "1598km",
-    "distanceFromLast": "221km"
+      "distanceFromLast": "221km"
     },
     "hardSeatPrice": "US$28",
     "hardSleeper": "US$48/50/52",
