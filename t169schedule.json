@@ -2,12 +2,16 @@
   {
     "stationId": "1",
     "stationName": "ShangHaiNan (Shanghai South)",
-    "arrTime": "Departure Station",
-    "depTime": "10:50",
-    "runningTime": "0m",
-    "timeFromLast": "0m",
-    "distance": "0km",
-    "distanceFromLast": "0km",
+    "time": {
+      "arrTime": "Departure Station",
+      "depTime": "10:50",
+      "runningTime": "0m",
+      "timeFromLast": "0m"
+    },
+    "distance": {
+      "totalDistance": "0km",
+    "distanceFromLast": "0km"
+    },
     "hardSeatPrice": "US$0",
     "hardSleeper": "US$0/0/0",
     "softSleeper": "US$0/0"
@@ -15,12 +19,16 @@
   {
     "stationId": "2",
     "stationName": "JiaXing",
-    "arrTime": "11:32",
-    "depTime": "11:35",
-    "runningTime": "42m",
-    "timeFromLast": "42m",
-    "distance": "80km",
-    "distanceFromLast": "80km",
+    "time": {
+      "arrTime": "11:32",
+      "depTime": "11:35",
+      "runningTime": "42m",
+      "timeFromLast": "42m"
+    },
+    "distance": {
+      "totalDistance": "80km",
+    "distanceFromLast": "80km"
+    },
     "hardSeatPrice": "US$2",
     "hardSleeper": "US$8/9/9",
     "softSleeper": "US$13/13"
@@ -28,12 +36,16 @@
   {
     "stationId": "3",
     "stationName": "HaiNing",
-    "arrTime": "11:55",
-    "depTime": "11:58",
-    "runningTime": "1h 5m",
-    "timeFromLast": "23m",
-    "distance": "108km",
-    "distanceFromLast": "28km",
+    "time": {
+      "arrTime": "11:55",
+      "depTime": "11:58",
+      "runningTime": "1h 5m",
+      "timeFromLast": "23m"
+    },
+    "distance": {
+      "totalDistance": "108km",
+    "distanceFromLast": "28km"
+    },
     "hardSeatPrice": "US$2",
     "hardSleeper": "US$9/10/10",
     "softSleeper": "US$14/14"
@@ -41,12 +53,16 @@
   {
     "stationId": "4",
     "stationName": "HangZhouDong (Hangzhou East)",
-    "arrTime": "12:40",
-    "depTime": "12:46",
-    "runningTime": "1h 50m",
-    "timeFromLast": "42m",
-    "distance": "167km",
-    "distanceFromLast": "59km",
+    "time": {
+      "arrTime": "12:40",
+      "depTime": "12:46",
+      "runningTime": "1h 50m",
+      "timeFromLast": "42m"
+    },
+    "distance": {
+      "totalDistance": "167km",
+    "distanceFromLast": "59km"
+    },
     "hardSeatPrice": "US$3",
     "hardSleeper": "US$10/11/11",
     "softSleeper": "US$15/16"
@@ -54,12 +70,16 @@
   {
     "stationId": "5",
     "stationName": "YiWu",
-    "arrTime": "13:52",
-    "depTime": "13:55",
-    "runningTime": "3h 2m",
-    "timeFromLast": "1h 6m",
-    "distance": "312km",
-    "distanceFromLast": "145km",
+    "time": {
+      "arrTime": "13:52",
+      "depTime": "13:55",
+      "runningTime": "3h 2m",
+      "timeFromLast": "1h 6m"
+    },
+    "distance": {
+      "totalDistance": "312km",
+    "distanceFromLast": "145km"
+    },
     "hardSeatPrice": "US$7",
     "hardSleeper": "US$13/14/14",
     "softSleeper": "US$20/21"
@@ -67,12 +87,16 @@
   {
     "stationId": "6",
     "stationName": "JinHua",
-    "arrTime": "14:30",
-    "depTime": "14:36",
-    "runningTime": "3h 40m",
-    "timeFromLast": "35m",
-    "distance": "360km",
-    "distanceFromLast": "48km",
+    "time": {
+      "arrTime": "14:30",
+      "depTime": "14:36",
+      "runningTime": "3h 40m",
+      "timeFromLast": "35m"
+    },
+    "distance": {
+      "totalDistance": "360km",
+    "distanceFromLast": "48km"
+    },
     "hardSeatPrice": "US$7",
     "hardSleeper": "US$14/14/15",
     "softSleeper": "US$21/22"
@@ -80,12 +104,16 @@
   {
     "stationId": "7",
     "stationName": "QuZhou",
-    "arrTime": "15:25",
-    "depTime": "15:28",
-    "runningTime": "4h 35m",
-    "timeFromLast": "49m",
-    "distance": "446km",
-    "distanceFromLast": "86km",
+    "time": {
+      "arrTime": "15:25",
+      "depTime": "15:28",
+      "runningTime": "4h 35m",
+      "timeFromLast": "49m"
+    },
+    "distance": {
+      "totalDistance": "446km",
+    "distanceFromLast": "86km"
+    },
     "hardSeatPrice": "US$9",
     "hardSleeper": "US$16/17/17",
     "softSleeper": "US$25/26"
@@ -93,12 +121,16 @@
   {
     "stationId": "8",
     "stationName": "ShangRao",
-    "arrTime": "16:39",
-    "depTime": "16:45",
-    "runningTime": "5h 45m",
-    "timeFromLast": "1h 11m",
-    "distance": "557km",
-    "distanceFromLast": "111km",
+    "time": {
+      "arrTime": "16:39",
+      "depTime": "16:45",
+      "runningTime": "5h 45m",
+      "timeFromLast": "1h 11m"
+    },
+    "distance": {
+      "totalDistance": "557km",
+    "distanceFromLast": "111km"
+    },
     "hardSeatPrice": "US$11",
     "hardSleeper": "US$20/20/21",
     "softSleeper": "US$30/31"
@@ -106,12 +138,16 @@
   {
     "stationId": "9",
     "stationName": "YingTan",
-    "arrTime": "17:46",
-    "depTime": "17:52",
-    "runningTime": "6h 56m",
-    "timeFromLast": "1h 1m",
-    "distance": "673km",
-    "distanceFromLast": "116km",
+    "time": {
+      "arrTime": "17:46",
+      "depTime": "17:52",
+      "runningTime": "6h 56m",
+      "timeFromLast": "1h 1m"
+    },
+    "distance": {
+      "totalDistance": "673km",
+    "distanceFromLast": "116km"
+    },
     "hardSeatPrice": "US$13",
     "hardSleeper": "US$23/24/25",
     "softSleeper": "US$35/37"
@@ -119,12 +155,16 @@
   {
     "stationId": "10",
     "stationName": "JiAn",
-    "arrTime": "20:47",
-    "depTime": "20:51",
-    "runningTime": "9h 57m",
-    "timeFromLast": "2h 55m",
-    "distance": "987km",
-    "distanceFromLast": "314km",
+    "time": {
+      "arrTime": "20:47",
+      "depTime": "20:51",
+      "runningTime": "9h 57m",
+      "timeFromLast": "2h 55m"
+    },
+    "distance": {
+      "totalDistance": "987km",
+    "distanceFromLast": "314km"
+    },
     "hardSeatPrice": "US$18",
     "hardSleeper": "US$31/32/33",
     "softSleeper": "US$49/51"
@@ -132,12 +172,16 @@
   {
     "stationId": "11",
     "stationName": "GanZhou",
-    "arrTime": "22:58",
-    "depTime": "23:23",
-    "runningTime": "12h 8m",
-    "timeFromLast": "2h 7m",
-    "distance": "1173km",
-    "distanceFromLast": "186km",
+    "time": {
+      "arrTime": "22:58",
+      "depTime": "23:23",
+      "runningTime": "12h 8m",
+      "timeFromLast": "2h 7m"
+    },
+    "distance": {
+      "totalDistance": "1173km",
+    "distanceFromLast": "186km"
+    },
     "hardSeatPrice": "US$21",
     "hardSleeper": "US$36/37/38",
     "softSleeper": "US$56/59"
@@ -145,12 +189,16 @@
   {
     "stationId": "12",
     "stationName": "ShaoGuanDong (Shaoguan East)",
-    "arrTime": "02:40",
-    "depTime": "02:46",
-    "runningTime": "15h 50m",
-    "timeFromLast": "3h 17m",
-    "distance": "1377km",
-    "distanceFromLast": "204km",
+    "time": {
+      "arrTime": "02:40",
+      "depTime": "02:46",
+      "runningTime": "15h 50m",
+      "timeFromLast": "3h 17m"
+    },
+    "distance": {
+      "totalDistance": "1377km",
+    "distanceFromLast": "204km"
+    },
     "hardSeatPrice": "US$27",
     "hardSleeper": "US$45/47/48",
     "softSleeper": "US$76/79"
@@ -158,12 +206,16 @@
   {
     "stationId": "13",
     "stationName": "GuangZhou",
-    "arrTime": "05:12",
-    "depTime": "Final Arrival",
-    "timeFromLast": "2h 26m",
-    "runningTime": "18h 22m",
-    "distance": "1598km",
-    "distanceFromLast": "221km",
+    "time": {
+      "arrTime": "05:12",
+      "depTime": "Final Arrival",
+      "timeFromLast": "2h 26m",
+      "runningTime": "18h 22m"
+    },
+    "distance": {
+      "totalDistance": "1598km",
+    "distanceFromLast": "221km"
+    },
     "hardSeatPrice": "US$28",
     "hardSleeper": "US$48/50/52",
     "softSleeper": "US$88/92"
