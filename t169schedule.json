@@ -1,6 +1,6 @@
 [
   {
-    "stationId": "1",
+    "stationId": 1,
     "stationName": "ShangHaiNan (Shanghai South)",
     "time": {
       "arrTime": "Departure Station",
@@ -17,7 +17,7 @@
     "softSleeper": "US$0/0"
   },
   {
-    "stationId": "2",
+    "stationId": 2,
     "stationName": "JiaXing",
     "time": {
       "arrTime": "11:32",
@@ -34,7 +34,7 @@
     "softSleeper": "US$13/13"
   },
   {
-    "stationId": "3",
+    "stationId": 3,
     "stationName": "HaiNing",
     "time": {
       "arrTime": "11:55",
@@ -51,7 +51,7 @@
     "softSleeper": "US$14/14"
   },
   {
-    "stationId": "4",
+    "stationId": 4,
     "stationName": "HangZhouDong (Hangzhou East)",
     "time": {
       "arrTime": "12:40",
@@ -68,7 +68,7 @@
     "softSleeper": "US$15/16"
   },
   {
-    "stationId": "5",
+    "stationId": 5,
     "stationName": "YiWu",
     "time": {
       "arrTime": "13:52",
@@ -85,7 +85,7 @@
     "softSleeper": "US$20/21"
   },
   {
-    "stationId": "6",
+    "stationId": 6,
     "stationName": "JinHua",
     "time": {
       "arrTime": "14:30",
@@ -102,7 +102,7 @@
     "softSleeper": "US$21/22"
   },
   {
-    "stationId": "7",
+    "stationId": 7,
     "stationName": "QuZhou",
     "time": {
       "arrTime": "15:25",
@@ -119,7 +119,7 @@
     "softSleeper": "US$25/26"
   },
   {
-    "stationId": "8",
+    "stationId": 8,
     "stationName": "ShangRao",
     "time": {
       "arrTime": "16:39",
@@ -136,7 +136,7 @@
     "softSleeper": "US$30/31"
   },
   {
-    "stationId": "9",
+    "stationId": 9,
     "stationName": "YingTan",
     "time": {
       "arrTime": "17:46",
@@ -153,7 +153,7 @@
     "softSleeper": "US$35/37"
   },
   {
-    "stationId": "10",
+    "stationId": 10,
     "stationName": "JiAn",
     "time": {
       "arrTime": "20:47",
@@ -170,7 +170,7 @@
     "softSleeper": "US$49/51"
   },
   {
-    "stationId": "11",
+    "stationId": 11,
     "stationName": "GanZhou",
     "time": {
       "arrTime": "22:58",
@@ -187,7 +187,7 @@
     "softSleeper": "US$56/59"
   },
   {
-    "stationId": "12",
+    "stationId": 12,
     "stationName": "ShaoGuanDong (Shaoguan East)",
     "time": {
       "arrTime": "02:40",
@@ -204,7 +204,7 @@
     "softSleeper": "US$76/79"
   },
   {
-    "stationId": "13",
+    "stationId": 13,
     "stationName": "GuangZhou",
     "time": {
       "arrTime": "05:12",
