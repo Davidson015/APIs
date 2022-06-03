@@ -13,9 +13,11 @@
         "totalDistance": "0km",
         "distanceFromLast": "0km"
       },
-      "hardSeatPrice": "US$0",
-      "hardSleeper": "US$0/0/0",
-      "softSleeper": "US$0/0"
+      "pricing": {
+        "hardSeatPrice": "US$0",
+        "hardSleeper": "US$0/0/0",
+        "softSleeper": "US$0/0"
+      }
     },
     {
       "stationId": 2,
@@ -30,9 +32,11 @@
         "totalDistance": "80km",
         "distanceFromLast": "80km"
       },
-      "hardSeatPrice": "US$2",
-      "hardSleeper": "US$8/9/9",
-      "softSleeper": "US$13/13"
+      "pricing": {
+        "hardSeatPrice": "US$2",
+        "hardSleeper": "US$8/9/9",
+        "softSleeper": "US$13/13"
+      }
     },
     {
       "stationId": 3,
@@ -47,9 +51,11 @@
         "totalDistance": "108km",
         "distanceFromLast": "28km"
       },
-      "hardSeatPrice": "US$2",
-      "hardSleeper": "US$9/10/10",
-      "softSleeper": "US$14/14"
+      "pricing": {
+        "hardSeatPrice": "US$2",
+        "hardSleeper": "US$9/10/10",
+        "softSleeper": "US$14/14"
+      }
     },
     {
       "stationId": 4,
@@ -64,9 +70,11 @@
         "totalDistance": "167km",
         "distanceFromLast": "59km"
       },
-      "hardSeatPrice": "US$3",
-      "hardSleeper": "US$10/11/11",
-      "softSleeper": "US$15/16"
+      "pricing": {
+        "hardSeatPrice": "US$3",
+        "hardSleeper": "US$10/11/11",
+        "softSleeper": "US$15/16"
+      }
     },
     {
       "stationId": 5,
@@ -81,9 +89,11 @@
         "totalDistance": "312km",
         "distanceFromLast": "145km"
       },
-      "hardSeatPrice": "US$7",
-      "hardSleeper": "US$13/14/14",
-      "softSleeper": "US$20/21"
+      "pricing": {
+        "hardSeatPrice": "US$7",
+        "hardSleeper": "US$13/14/14",
+        "softSleeper": "US$20/21"
+      }
     },
     {
       "stationId": 6,
@@ -98,9 +108,11 @@
         "totalDistance": "360km",
         "distanceFromLast": "48km"
       },
-      "hardSeatPrice": "US$7",
-      "hardSleeper": "US$14/14/15",
-      "softSleeper": "US$21/22"
+      "pricing": {
+        "hardSeatPrice": "US$7",
+        "hardSleeper": "US$14/14/15",
+        "softSleeper": "US$21/22"
+      }
     },
     {
       "stationId": 7,
@@ -115,9 +127,11 @@
         "totalDistance": "446km",
         "distanceFromLast": "86km"
       },
-      "hardSeatPrice": "US$9",
-      "hardSleeper": "US$16/17/17",
-      "softSleeper": "US$25/26"
+      "pricing": {
+        "hardSeatPrice": "US$9",
+        "hardSleeper": "US$16/17/17",
+        "softSleeper": "US$25/26"
+      }
     },
     {
       "stationId": 8,
@@ -132,9 +146,11 @@
         "totalDistance": "557km",
         "distanceFromLast": "111km"
       },
-      "hardSeatPrice": "US$11",
-      "hardSleeper": "US$20/20/21",
-      "softSleeper": "US$30/31"
+      "pricing": {
+        "hardSeatPrice": "US$11",
+        "hardSleeper": "US$20/20/21",
+        "softSleeper": "US$30/31"
+      }
     },
     {
       "stationId": 9,
@@ -149,9 +165,11 @@
         "totalDistance": "673km",
         "distanceFromLast": "116km"
       },
-      "hardSeatPrice": "US$13",
-      "hardSleeper": "US$23/24/25",
-      "softSleeper": "US$35/37"
+      "pricing": {
+        "hardSeatPrice": "US$13",
+        "hardSleeper": "US$23/24/25",
+        "softSleeper": "US$35/37"
+      }
     },
     {
       "stationId": 10,
@@ -166,9 +184,11 @@
         "totalDistance": "987km",
         "distanceFromLast": "314km"
       },
-      "hardSeatPrice": "US$18",
-      "hardSleeper": "US$31/32/33",
-      "softSleeper": "US$49/51"
+      "pricing": {
+        "hardSeatPrice": "US$18",
+        "hardSleeper": "US$31/32/33",
+        "softSleeper": "US$49/51"
+      }
     },
     {
       "stationId": 11,
@@ -183,9 +203,11 @@
         "totalDistance": "1173km",
         "distanceFromLast": "186km"
       },
-      "hardSeatPrice": "US$21",
-      "hardSleeper": "US$36/37/38",
-      "softSleeper": "US$56/59"
+      "pricing": {
+        "hardSeatPrice": "US$21",
+        "hardSleeper": "US$36/37/38",
+        "softSleeper": "US$56/59"
+      }
     },
     {
       "stationId": 12,
@@ -200,9 +222,11 @@
         "totalDistance": "1377km",
         "distanceFromLast": "204km"
       },
-      "hardSeatPrice": "US$27",
-      "hardSleeper": "US$45/47/48",
-      "softSleeper": "US$76/79"
+      "pricing": {
+        "hardSeatPrice": "US$27",
+        "hardSleeper": "US$45/47/48",
+        "softSleeper": "US$76/79"
+      }
     },
     {
       "stationId": 13,
@@ -217,9 +241,11 @@
         "totalDistance": "1598km",
         "distanceFromLast": "221km"
       },
-      "hardSeatPrice": "US$28",
-      "hardSleeper": "US$48/50/52",
-      "softSleeper": "US$88/92"
+      "pricing": {
+        "hardSeatPrice": "US$28",
+        "hardSleeper": "US$48/50/52",
+        "softSleeper": "US$88/92"
+      }
     }
   ]
 }
