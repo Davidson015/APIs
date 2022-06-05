@@ -2,6 +2,7 @@
   "schedules": [
     {
       "stationId": 1,
+      "stationImage": "https://img.freepik.com/free-photo/thai-retro-train-kanchanaburi-thailand_335224-778.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "ShangHaiNan (Shanghai South)",
       "time": {
         "arrTime": "Departure Station",
@@ -21,6 +22,7 @@
     },
     {
       "stationId": 2,
+      "stationImage": "https://img.freepik.com/free-photo/train-stopped-railway_1112-138.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "JiaXing",
       "time": {
         "arrTime": "11:32",
@@ -40,6 +42,7 @@
     },
     {
       "stationId": 3,
+      "stationImage": "https://img.freepik.com/free-photo/sideways-woman-listening-music-train-platform_23-2148753365.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "HaiNing",
       "time": {
         "arrTime": "11:55",
@@ -59,6 +62,7 @@
     },
     {
       "stationId": 4,
+      "stationImage": "https://img.freepik.com/free-photo/black-man-waiting-train-platform_53876-14031.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "HangZhouDong (Hangzhou East)",
       "time": {
         "arrTime": "12:40",
@@ -78,6 +82,7 @@
     },
     {
       "stationId": 5,
+      "stationImage": "https://img.freepik.com/free-photo/train-platform-sunset-railroad-railway-station_159067-79.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "YiWu",
       "time": {
         "arrTime": "13:52",
@@ -97,6 +102,7 @@
     },
     {
       "stationId": 6,
+      "stationImage": "https://img.freepik.com/free-photo/passenger-high-speed-train-with-motion-blur-station_165577-59.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "JinHua",
       "time": {
         "arrTime": "14:30",
@@ -116,6 +122,7 @@
     },
     {
       "stationId": 7,
+      "stationImage": "https://img.freepik.com/free-photo/moscow-metro-station-novatorskaya-with-vivid-colorful-ceiling-blurred-moving-train_441873-531.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "QuZhou",
       "time": {
         "arrTime": "15:25",
@@ -135,6 +142,7 @@
     },
     {
       "stationId": 8,
+      "stationImage": "https://img.freepik.com/free-photo/railroad-travel-passenger-train-with-motion-blur-effect-concept-tourism_165577-1670.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "ShangRao",
       "time": {
         "arrTime": "16:39",
@@ -154,6 +162,7 @@
     },
     {
       "stationId": 9,
+      "stationImage": "https://img.freepik.com/free-photo/empty-seats-by-window-train_1359-1048.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "YingTan",
       "time": {
         "arrTime": "17:46",
@@ -173,6 +182,7 @@
     },
     {
       "stationId": 10,
+      "stationImage": "https://img.freepik.com/free-photo/young-asian-woman-backpacker-traveler-walking-alone-train-station-platform-with-backpack_7861-3511.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "JiAn",
       "time": {
         "arrTime": "20:47",
@@ -192,6 +202,7 @@
     },
     {
       "stationId": 11,
+      "stationImage": "https://img.freepik.com/free-photo/train-railway_1417-1605.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "GanZhou",
       "time": {
         "arrTime": "22:58",
@@ -211,6 +222,7 @@
     },
     {
       "stationId": 12,
+      "stationImage": "https://img.freepik.com/free-photo/train-passing-by-station-night_23-2148242217.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "ShaoGuanDong (Shaoguan East)",
       "time": {
         "arrTime": "02:40",
@@ -230,6 +242,7 @@
     },
     {
       "stationId": 13,
+      "stationImage": "https://img.freepik.com/free-photo/trains-railroad-station_1359-633.jpg?size=626&ext=jpg&uid=R38537911&ga=GA1.2.2127449991.1654416141",
       "stationName": "GuangZhou",
       "time": {
         "arrTime": "05:12",
